@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ahoj, som Adam 👋
 
-<!--
-**adamstefanik/AdamStefanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Som nadšenec do technológií, programovania a budovania praktických riešení.  
+Rád sa učím nové veci a posúvam svoje skills cez reálne projekty.
 
-Here are some ideas to get you started:
+## 🚀 O mne
+- 💻 Zaujímam sa o vývoj webových aplikácií a automatizáciu
+- 📚 Neustále sa učím nové technológie a postupy
+- 🤝 Som otvorený spolupráci na zaujímavých projektoch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+- **Jazyky:** JavaScript, TypeScript, Python
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express
+- **Nástroje:** Git, GitHub, VS Code
+
+## 📌 Čomu sa aktuálne venujem
+- Tvorbe vlastných projektov
+- Zlepšovaniu kvality kódu a architektúry
+- Rozširovaniu portfólia na GitHube
+
+## 📫 Kontakt
+- GitHub: [@adamstefanik](https://github.com/adamstefanik)
+- LinkedIn: *(doplníš sem odkaz)*
+- E-mail: *(doplníš sem e-mail)*
