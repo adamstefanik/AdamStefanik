@@ -1,10 +1,5 @@
-# Hi, I'm Adam 👋
+# Hi, I'm Adam
 
-I am 22 years old and I am from Slovakia.
+I am 22 years old. Sophomore at Tomas Bata University in Software Engineering.
 
-I study at Tomas Bata University in Zlin, Czech Republic.
-
-I am interested in programming, web development, and learning new technologies.
-
-## Contact
-- GitHub: [@adamstefanik](https://github.com/adamstefanik)
+I love good looking UI and a lot of coffee.
