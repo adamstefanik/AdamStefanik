@@ -11,11 +11,8 @@ any IT opportunity: internships, part-time or junior roles.
 <p>
   <img src="https://api.iconify.design/devicon-plain/csharp.svg?color=white" width="30" alt="C#">
   <img src="https://api.iconify.design/devicon-plain/c.svg?color=white" width="30" alt="C">
-  <img src="https://api.iconify.design/devicon-plain/java.svg?color=white" width="30" alt="Java">
-  <img src="https://cdn.simpleicons.org/dotnet/white" width="30" alt=".NET">
   <img src="https://api.iconify.design/devicon-plain/swift.svg?color=white" width="30" alt="Swift">
   <img src="https://api.iconify.design/devicon-plain/javascript.svg?color=white" width="30" alt="JavaScript">
-  <img src="https://api.iconify.design/devicon-plain/typescript.svg?color=white" width="30" alt="TypeScript">
   <img src="https://api.iconify.design/devicon-plain/mysql.svg?color=white" width="30" alt="MySQL">
   <img src="https://api.iconify.design/devicon-plain/python.svg?color=white" width="30" alt="Python">
   <img src="https://api.iconify.design/devicon-plain/xcode.svg?color=white" width="30" alt="Xcode">
